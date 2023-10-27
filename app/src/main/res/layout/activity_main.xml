@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background7"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/mainLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:background="#D0E8F8"
+        app:srcCompat="@drawable/logo_main" />
+
+    <ImageView
+        android:id="@+id/imageViewInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        app:srcCompat="@drawable/info" />
+
+    <ImageView
+        android:id="@+id/imageViewInfoContents"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        app:srcCompat="@drawable/info_contents" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="130dp"
+        android:layout_marginLeft="130dp"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/reservationButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:layout_marginBottom="20dp"
+            android:background="@android:color/transparent"
+            app:srcCompat="@drawable/reservation_btn" />
+        <!-- android:scaleType="fitCenter": 이미지를 버튼 경계에 맞게 설정
+             android:adjustViewBounds="true": 이미지의 원래 비율대로 높이 설정-->
+
+        <ImageButton
+            android:id="@+id/floorInfoButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:layout_marginBottom="20dp"
+            android:background="@android:color/transparent"
+            app:srcCompat="@drawable/floor_btn" />
+
+        <ImageButton
+            android:id="@+id/introduceBookButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:background="@android:color/transparent"
+            app:srcCompat="@drawable/introduce_btn" />
+    </LinearLayout>
+</LinearLayout>

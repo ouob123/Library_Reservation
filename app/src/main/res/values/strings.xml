@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2조-HW6-1(Reservation Site)김유진(2113141)임서현(2116016)</string>
+
+    <string name="floor1">1층</string>
+    <string name="floor2">2층</string>
+    <string name="floor3">3층</string>
+    <string name="floor4">4층</string>
+</resources>

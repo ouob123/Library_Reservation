@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/drawable/edge.xml" value="0.1115" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/activity_info_floor.xml" value="0.10925925925925926" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/activity_info_floor1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/activity_info_floor2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/activity_info_floor3.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/activity_info_floor4.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/activity_web.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/dialog.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/floor_dialog.xml" value="0.20108695652173914" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/introduce_month_book.xml" value="0.20108695652173914" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/noise_zone_select_seat.xml" value="0.20108695652173914" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/reservation_page.xml" value="0.20108695652173914" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/reservation_result.xml" value="0.24947916666666667" />
+        <entry key="..\:/Android/AndroidProject/Fall2022/Lab/2HW61ReservationSite21131412116016/app/src/main/res/layout/toast_book_title.xml" value="0.20108695652173914" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
